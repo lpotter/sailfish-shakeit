@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/pages/audio/loopy2a_mono.wav</file>
+        <file>qml/pages/audio/phone.wav</file>
+        <file>qml/pages/content/triangle.png</file>
+        <file>qml/pages/content/triangle2.png</file>
+        <file>qml/pages/content/triangle3.png</file>
+    </qresource>
+</RCC>
